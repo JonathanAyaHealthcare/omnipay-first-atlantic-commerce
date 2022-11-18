@@ -1,8 +1,8 @@
 {
-    "name": "shamarkellman/omnipay-first-atlantic-commerce",
+    "name": "jonathanmontes/omnipay-first-atlantic-commerce",
     "description": "omnipay-first-atlantic-commerce",
     "keywords": [
-        "shamarkellman",
+        "jonathanmontes",
         "omnipay-first-atlantic-commerce"
     ],
     "homepage": "https://github.com/shamarkellman/omnipay-first-atlantic-commerce",
@@ -11,6 +11,11 @@
         {
             "name": "Shamar Kellman",
             "email": "shamarkellman@hotmail.com",
+            "role": "Developer"
+        },
+        {
+            "name": "Jonathan Montes",
+            "email": "jonathanmontes@ayahealthcare.com",
             "role": "Developer"
         }
     ],
