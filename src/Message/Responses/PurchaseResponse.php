@@ -45,8 +45,6 @@ class PurchaseResponse extends AbstractResponse
             $signature .= $this->request->getMerchantId();
             $signature .= $this->request->getAcquirerId();
             $signature .= $this->request->getTransactionId();
-            $signature .= $this->request->formatAmount();
-            $signature .= $this->request->getCurrencyNumeric();
 
             $signature = base64_encode(sha1($signature, true));
 
